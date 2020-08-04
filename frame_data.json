@@ -1,0 +1,23 @@
+{
+    "frames": [
+        {
+            "timer": "08:00 00",
+            "p1": {
+                "damage": 0,
+                "stocks": ["sheik", "sheik", "sheik", "sheik"]
+            },
+            "p2": {
+                "damage": 0,
+                "stocks": ["fox", "fox", "fox", "fox"]
+            },
+            "p3": {
+                "damage": 0,
+                "stocks": ["fox", "fox", "fox", "fox"]
+            },
+            "p4": {
+                "damage": 0,
+                "stocks": ["fox", "fox", "fox", "fox"]
+            }
+        }
+    ]
+}
